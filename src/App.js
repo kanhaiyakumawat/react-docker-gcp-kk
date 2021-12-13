@@ -3,15 +3,17 @@ import './App.css'
 import 'bootstrap/dist/css/bootstrap.css'
 import MyNavBarTop from './navbar/MyNavBarTop.js'
 import { BrowserRouter, Route } from 'react-router-dom'
-import Home from './Home'
+import Home from './pages/home/Home'
 import BottomNavBar from './navbar/BottomNavBar'
+import TopNavBar from './navbar/TopNavBar'
 
 export default class App extends Component {
   render() {
     return (
       <div>
         <div>
-          <MyNavBarTop />
+            <TopNavBar/>
+          {/* <MyNavBarTop /> */}
           <br />
           <br />
           <br />
