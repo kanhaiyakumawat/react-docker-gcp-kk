@@ -31,7 +31,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/Algorithms.gif"
+                  image="https://drive.google.com/uc?id=17DhVyIp3_rOo6qA-09FE6uUivc0sHASY"
                   title="Computer Algorithms"
                 />
                 <CardContent>
@@ -47,7 +47,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/DataStructures.gif"
+                  image="https://drive.google.com/uc?id=1YChieDOV68V6rf6TKx_6tUM7uxjIoCa3"
                   title="Data Structures"
                 />
                 <CardContent>
@@ -63,7 +63,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/Languages.gif"
+                  image="https://drive.google.com/uc?id=1fqc9CQK2fkWCvIp9ho2rHBV-zLJbGM6W"
                   title="Languages"
                 />
                 <CardContent>
@@ -81,7 +81,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/BigData.gif"
+                  image="https://drive.google.com/uc?id=1-XwOdGIsT6i51eZIavfd9ISLLepiME8Y"
                   title="Big Data"
                 />
                 <CardContent>
@@ -97,7 +97,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/AIML.gif"
+                  image="https://drive.google.com/uc?id=1k9PBbbpsyjF7WLNhau7qzFtIwUiwdiI2"
                   title="AI ML"
                 />
                 <CardContent>
@@ -113,7 +113,7 @@ const Home = (props) => {
               <CardActionArea>
                 <CardMedia
                   className={classes.media}
-                  image="/Cloud.gif"
+                  image="https://drive.google.com/uc?id=1xIR5fY7ySC9Y7ID9sdyJ4y3dBtEEZ-dd"
                   title="Cloud Technologies"
                 />
                 <CardContent>
